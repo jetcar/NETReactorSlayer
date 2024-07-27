@@ -2,7 +2,7 @@
   "profiles": {
     "NETReactorSlayer-x64.CLI": {
       "commandName": "Project",
-      "commandLineArgs": "\"C:\\slayer\\WoolichRacingTuned_Slayed.exe\" --dump-costura True --dec-strings True --rem-antis True --dec-bools True --dump-asm True --fix-proxy True --deob-cflow True --deob-tokens True --dec-rsrc True --inline-methods True --dec-methods True  False --rem-sn True --rename ntmfe True --rename-short True --rem-junks True --keep-types False --rem-calls True --preserve-all False --keep-max-stack False --no-pause True"
+      "commandLineArgs": ""
     }
   }
 }
